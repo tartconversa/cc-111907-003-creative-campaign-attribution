@@ -1,0 +1,4 @@
+creative_id,campaign_id,revision,channel,live_utc
+c-1,m-1,1,short-video,2026-11-01T00:00:00Z
+c-1b,m-1,2,short-video,2026-11-05T00:00:00Z
+c-2,m-2,1,offline-event,2026-11-02T00:00:00Z
