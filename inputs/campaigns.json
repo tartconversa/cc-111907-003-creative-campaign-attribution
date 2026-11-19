@@ -1,0 +1,26 @@
+[
+  {
+    "campaign": "short",
+    "channel": "video",
+    "exclusive_family": "new-customer",
+    "start": "2026-10-30T00:00:00Z",
+    "end": "2026-11-29T00:00:00Z",
+    "max_budget_fen": 300000
+  },
+  {
+    "campaign": "search",
+    "channel": "search",
+    "exclusive_family": "new-customer",
+    "start": "2026-10-30T00:00:00Z",
+    "end": "2026-11-29T00:00:00Z",
+    "max_budget_fen": 250000
+  },
+  {
+    "campaign": "fair",
+    "channel": "offline",
+    "exclusive_family": "event",
+    "start": "2026-11-01T00:00:00Z",
+    "end": "2026-11-19T00:00:00Z",
+    "max_budget_fen": 200000
+  }
+]

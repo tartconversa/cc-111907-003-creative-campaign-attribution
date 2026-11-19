@@ -1,5 +1,0 @@
-touch_id,person_key,creative_id,occurred_utc,source
-t1,p-1,c-1,2026-11-03T08:00:00Z,paid
-t2,p-1,c-1b,2026-11-06T08:00:00Z,organic
-t3,p-2,c-2,2026-11-06T09:00:00Z,offline
-t4,p-3,c-1b,2026-11-07T08:00:00Z,paid

@@ -1,0 +1,26 @@
+[
+  {
+    "creative": "V1",
+    "campaign": "short",
+    "revision": 1,
+    "live": "2026-10-30T00:00:00Z"
+  },
+  {
+    "creative": "V2",
+    "campaign": "short",
+    "revision": 2,
+    "live": "2026-11-07T00:00:00Z"
+  },
+  {
+    "creative": "S1",
+    "campaign": "search",
+    "revision": 1,
+    "live": "2026-10-30T00:00:00Z"
+  },
+  {
+    "creative": "F1",
+    "campaign": "fair",
+    "revision": 1,
+    "live": "2026-11-01T00:00:00Z"
+  }
+]

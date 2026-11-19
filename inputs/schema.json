@@ -1,0 +1,74 @@
+{
+  "regions": {
+    "definition": "供活动分配的地区，不含真实身份。",
+    "columns": {
+      "region": "地区",
+      "baseline_customers": "常规客群规模",
+      "group": "相似地区层"
+    }
+  },
+  "campaigns": {
+    "definition": "活动计划及互斥业务约束。",
+    "columns": {
+      "campaign": "活动",
+      "channel": "渠道",
+      "exclusive_family": "同地区互斥组",
+      "start": "计划起点",
+      "end": "计划终点",
+      "max_budget_fen": "活动预算分"
+    }
+  },
+  "creatives": {
+    "definition": "创意版本有独立上线时点。",
+    "columns": {
+      "creative": "素材",
+      "campaign": "活动",
+      "revision": "版本",
+      "live": "上线"
+    }
+  },
+  "touches": {
+    "definition": "描述性路径，不是已知因果效果。",
+    "columns": {
+      "id": "触达标识",
+      "person": "合成人员键",
+      "region": "地区",
+      "creative": "素材",
+      "occurred": "触达时刻",
+      "source": "paid/organic"
+    }
+  },
+  "orders": {
+    "definition": "收入、履约成本和累计退款为人民币元。",
+    "columns": {
+      "id": "订单",
+      "person": "人员键",
+      "region": "地区",
+      "ordered": "下单",
+      "received": "知悉",
+      "revenue": "收入",
+      "cost": "履约成本",
+      "refund": "累计退款"
+    }
+  },
+  "contracts": {
+    "definition": "既有广告合同是实际预算占用，不是可被重算移除的统计。",
+    "columns": {
+      "id": "合同",
+      "campaign": "活动",
+      "region": "地区",
+      "amount_fen": "金额分",
+      "status": "signed/executed/cancelled",
+      "cancellable": "可取消"
+    }
+  },
+  "observation_policy": {
+    "definition": "业务可自行登记研究计划，提供默认成熟期及观察范围。",
+    "columns": {
+      "id": "口径",
+      "maturity_days": "订单成熟天数",
+      "confidence": "不确定性展示水平",
+      "currency": "币种"
+    }
+  }
+}

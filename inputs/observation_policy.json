@@ -1,0 +1,8 @@
+[
+  {
+    "id": "default",
+    "maturity_days": 7,
+    "confidence": 0.95,
+    "currency": "CNY"
+  }
+]

@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "T0",
+    "person": "U0",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T1",
+    "person": "U1",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T2",
+    "person": "U2",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T3",
+    "person": "U3",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T4",
+    "person": "U4",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T5",
+    "person": "U5",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T6",
+    "person": "U6",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T7",
+    "person": "U7",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T8",
+    "person": "U8",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T9",
+    "person": "U9",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T10",
+    "person": "U10",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T11",
+    "person": "U11",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T12",
+    "person": "U12",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T13",
+    "person": "U13",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T14",
+    "person": "U14",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T15",
+    "person": "U15",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T16",
+    "person": "U16",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T17",
+    "person": "U17",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T18",
+    "person": "U18",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T19",
+    "person": "U19",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T20",
+    "person": "U20",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T21",
+    "person": "U21",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T22",
+    "person": "U22",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T23",
+    "person": "U23",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T24",
+    "person": "U24",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T25",
+    "person": "U25",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T26",
+    "person": "U26",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T27",
+    "person": "U27",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T28",
+    "person": "U28",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T29",
+    "person": "U29",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T30",
+    "person": "U30",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T31",
+    "person": "U31",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T32",
+    "person": "U32",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T33",
+    "person": "U33",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T34",
+    "person": "U34",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T35",
+    "person": "U35",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T36",
+    "person": "U36",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T37",
+    "person": "U37",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T38",
+    "person": "U38",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T39",
+    "person": "U39",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T40",
+    "person": "U40",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T41",
+    "person": "U41",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T42",
+    "person": "U42",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T43",
+    "person": "U43",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T44",
+    "person": "U44",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T45",
+    "person": "U45",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T46",
+    "person": "U46",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T47",
+    "person": "U47",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T48",
+    "person": "U48",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T49",
+    "person": "U49",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T50",
+    "person": "U50",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T51",
+    "person": "U51",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T52",
+    "person": "U52",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T53",
+    "person": "U53",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T54",
+    "person": "U54",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T55",
+    "person": "U55",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T56",
+    "person": "U56",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T57",
+    "person": "U57",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T58",
+    "person": "U58",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T59",
+    "person": "U59",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T60",
+    "person": "U60",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T61",
+    "person": "U61",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T62",
+    "person": "U62",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T63",
+    "person": "U63",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T64",
+    "person": "U64",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T65",
+    "person": "U65",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T66",
+    "person": "U66",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T67",
+    "person": "U67",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T68",
+    "person": "U68",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T69",
+    "person": "U69",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T70",
+    "person": "U70",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T71",
+    "person": "U71",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T72",
+    "person": "U72",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T73",
+    "person": "U73",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T74",
+    "person": "U74",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T75",
+    "person": "U75",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T76",
+    "person": "U76",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T77",
+    "person": "U77",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T78",
+    "person": "U78",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T79",
+    "person": "U79",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T80",
+    "person": "U80",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T81",
+    "person": "U81",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T82",
+    "person": "U82",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T83",
+    "person": "U83",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T84",
+    "person": "U84",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T85",
+    "person": "U85",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T86",
+    "person": "U86",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T87",
+    "person": "U87",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T88",
+    "person": "U88",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T89",
+    "person": "U89",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T90",
+    "person": "U90",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T91",
+    "person": "U91",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T92",
+    "person": "U92",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T93",
+    "person": "U93",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T94",
+    "person": "U94",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T95",
+    "person": "U95",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T96",
+    "person": "U96",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T97",
+    "person": "U97",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T98",
+    "person": "U98",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T99",
+    "person": "U99",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T100",
+    "person": "U100",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T101",
+    "person": "U101",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T102",
+    "person": "U102",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T103",
+    "person": "U103",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T104",
+    "person": "U104",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T105",
+    "person": "U105",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T106",
+    "person": "U106",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T107",
+    "person": "U107",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T108",
+    "person": "U108",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T109",
+    "person": "U109",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T110",
+    "person": "U110",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T111",
+    "person": "U111",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T112",
+    "person": "U112",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T113",
+    "person": "U113",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T114",
+    "person": "U114",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T115",
+    "person": "U115",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T116",
+    "person": "U116",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T117",
+    "person": "U117",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T118",
+    "person": "U118",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T119",
+    "person": "U119",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T120",
+    "person": "U120",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T121",
+    "person": "U121",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T122",
+    "person": "U122",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T123",
+    "person": "U123",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T124",
+    "person": "U124",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T125",
+    "person": "U125",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T126",
+    "person": "U126",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T127",
+    "person": "U127",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T128",
+    "person": "U128",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T129",
+    "person": "U129",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T130",
+    "person": "U130",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T131",
+    "person": "U131",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T132",
+    "person": "U132",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T133",
+    "person": "U133",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T134",
+    "person": "U134",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T135",
+    "person": "U135",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T136",
+    "person": "U136",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T137",
+    "person": "U137",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T138",
+    "person": "U138",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T139",
+    "person": "U139",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T140",
+    "person": "U140",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T141",
+    "person": "U141",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T142",
+    "person": "U142",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T143",
+    "person": "U143",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T144",
+    "person": "U144",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T145",
+    "person": "U145",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T146",
+    "person": "U146",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T147",
+    "person": "U147",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T148",
+    "person": "U148",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T149",
+    "person": "U149",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T150",
+    "person": "U150",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T151",
+    "person": "U151",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T152",
+    "person": "U152",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T153",
+    "person": "U153",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T154",
+    "person": "U154",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T155",
+    "person": "U155",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T156",
+    "person": "U156",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T157",
+    "person": "U157",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T158",
+    "person": "U158",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T159",
+    "person": "U159",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T160",
+    "person": "U160",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T161",
+    "person": "U161",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T162",
+    "person": "U162",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T163",
+    "person": "U163",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T164",
+    "person": "U164",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T165",
+    "person": "U165",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T166",
+    "person": "U166",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T167",
+    "person": "U167",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T168",
+    "person": "U168",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T169",
+    "person": "U169",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T170",
+    "person": "U170",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T171",
+    "person": "U171",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T172",
+    "person": "U172",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T173",
+    "person": "U173",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T174",
+    "person": "U174",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T175",
+    "person": "U175",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T176",
+    "person": "U176",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T177",
+    "person": "U177",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T178",
+    "person": "U178",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T179",
+    "person": "U179",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T180",
+    "person": "U0",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T181",
+    "person": "U1",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T182",
+    "person": "U2",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T183",
+    "person": "U3",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T184",
+    "person": "U4",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T185",
+    "person": "U5",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T186",
+    "person": "U6",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T187",
+    "person": "U7",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T188",
+    "person": "U8",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T189",
+    "person": "U9",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T190",
+    "person": "U10",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T191",
+    "person": "U11",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T192",
+    "person": "U12",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T193",
+    "person": "U13",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T194",
+    "person": "U14",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T195",
+    "person": "U15",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T196",
+    "person": "U16",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T197",
+    "person": "U17",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T198",
+    "person": "U18",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T199",
+    "person": "U19",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T200",
+    "person": "U20",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T201",
+    "person": "U21",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T202",
+    "person": "U22",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T203",
+    "person": "U23",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T204",
+    "person": "U24",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T205",
+    "person": "U25",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T206",
+    "person": "U26",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T207",
+    "person": "U27",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T208",
+    "person": "U28",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T209",
+    "person": "U29",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T210",
+    "person": "U30",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T211",
+    "person": "U31",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T212",
+    "person": "U32",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T213",
+    "person": "U33",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T214",
+    "person": "U34",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T215",
+    "person": "U35",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T216",
+    "person": "U36",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T217",
+    "person": "U37",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T218",
+    "person": "U38",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T219",
+    "person": "U39",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T220",
+    "person": "U40",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T221",
+    "person": "U41",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T222",
+    "person": "U42",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T223",
+    "person": "U43",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T224",
+    "person": "U44",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T225",
+    "person": "U45",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T226",
+    "person": "U46",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T227",
+    "person": "U47",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T228",
+    "person": "U48",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T229",
+    "person": "U49",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T230",
+    "person": "U50",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T231",
+    "person": "U51",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T232",
+    "person": "U52",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T233",
+    "person": "U53",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T234",
+    "person": "U54",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T235",
+    "person": "U55",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T236",
+    "person": "U56",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T237",
+    "person": "U57",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T238",
+    "person": "U58",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T239",
+    "person": "U59",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T240",
+    "person": "U60",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T241",
+    "person": "U61",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T242",
+    "person": "U62",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T243",
+    "person": "U63",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T244",
+    "person": "U64",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T245",
+    "person": "U65",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T246",
+    "person": "U66",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T247",
+    "person": "U67",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T248",
+    "person": "U68",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T249",
+    "person": "U69",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T250",
+    "person": "U70",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T251",
+    "person": "U71",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T252",
+    "person": "U72",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T253",
+    "person": "U73",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T254",
+    "person": "U74",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T255",
+    "person": "U75",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T256",
+    "person": "U76",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T257",
+    "person": "U77",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T258",
+    "person": "U78",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T259",
+    "person": "U79",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T260",
+    "person": "U80",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T261",
+    "person": "U81",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T262",
+    "person": "U82",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T263",
+    "person": "U83",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T264",
+    "person": "U84",
+    "region": "G8",
+    "creative": "V1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T265",
+    "person": "U85",
+    "region": "G9",
+    "creative": "V2",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T266",
+    "person": "U86",
+    "region": "G10",
+    "creative": "S1",
+    "occurred": "2026-11-03T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T267",
+    "person": "U87",
+    "region": "G11",
+    "creative": "F1",
+    "occurred": "2026-11-04T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T268",
+    "person": "U88",
+    "region": "G12",
+    "creative": "V1",
+    "occurred": "2026-11-05T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T269",
+    "person": "U89",
+    "region": "G13",
+    "creative": "V2",
+    "occurred": "2026-11-06T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T270",
+    "person": "U90",
+    "region": "G14",
+    "creative": "S1",
+    "occurred": "2026-11-07T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T271",
+    "person": "U91",
+    "region": "G15",
+    "creative": "F1",
+    "occurred": "2026-11-08T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T272",
+    "person": "U92",
+    "region": "G0",
+    "creative": "V1",
+    "occurred": "2026-11-09T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T273",
+    "person": "U93",
+    "region": "G1",
+    "creative": "V2",
+    "occurred": "2026-11-10T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T274",
+    "person": "U94",
+    "region": "G2",
+    "creative": "S1",
+    "occurred": "2026-11-11T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T275",
+    "person": "U95",
+    "region": "G3",
+    "creative": "F1",
+    "occurred": "2026-11-12T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T276",
+    "person": "U96",
+    "region": "G4",
+    "creative": "V1",
+    "occurred": "2026-11-13T08:00:00Z",
+    "source": "organic"
+  },
+  {
+    "id": "T277",
+    "person": "U97",
+    "region": "G5",
+    "creative": "V2",
+    "occurred": "2026-11-14T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T278",
+    "person": "U98",
+    "region": "G6",
+    "creative": "S1",
+    "occurred": "2026-11-15T08:00:00Z",
+    "source": "paid"
+  },
+  {
+    "id": "T279",
+    "person": "U99",
+    "region": "G7",
+    "creative": "F1",
+    "occurred": "2026-11-16T08:00:00Z",
+    "source": "organic"
+  }
+]

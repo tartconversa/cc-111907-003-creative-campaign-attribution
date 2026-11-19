@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1",
+    "campaign": "short",
+    "region": "G1",
+    "amount_fen": 30000,
+    "status": "signed",
+    "cancellable": false
+  },
+  {
+    "id": "C2",
+    "campaign": "fair",
+    "region": "G3",
+    "amount_fen": 20000,
+    "status": "executed",
+    "cancellable": false
+  },
+  {
+    "id": "C3",
+    "campaign": "search",
+    "region": "G5",
+    "amount_fen": 10000,
+    "status": "signed",
+    "cancellable": true
+  }
+]

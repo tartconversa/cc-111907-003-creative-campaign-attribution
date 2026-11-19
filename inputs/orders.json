@@ -1,0 +1,942 @@
+[
+  {
+    "id": "O0",
+    "person": "U0",
+    "region": "G0",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O3",
+    "person": "U3",
+    "region": "G3",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O6",
+    "person": "U6",
+    "region": "G6",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O9",
+    "person": "U9",
+    "region": "G9",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O12",
+    "person": "U12",
+    "region": "G12",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O15",
+    "person": "U15",
+    "region": "G15",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O18",
+    "person": "U18",
+    "region": "G2",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O21",
+    "person": "U21",
+    "region": "G5",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O24",
+    "person": "U24",
+    "region": "G8",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O27",
+    "person": "U27",
+    "region": "G11",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O30",
+    "person": "U30",
+    "region": "G14",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O33",
+    "person": "U33",
+    "region": "G1",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O36",
+    "person": "U36",
+    "region": "G4",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O39",
+    "person": "U39",
+    "region": "G7",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O42",
+    "person": "U42",
+    "region": "G10",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O45",
+    "person": "U45",
+    "region": "G13",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O48",
+    "person": "U48",
+    "region": "G0",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O51",
+    "person": "U51",
+    "region": "G3",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O54",
+    "person": "U54",
+    "region": "G6",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O57",
+    "person": "U57",
+    "region": "G9",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O60",
+    "person": "U60",
+    "region": "G12",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O63",
+    "person": "U63",
+    "region": "G15",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O66",
+    "person": "U66",
+    "region": "G2",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O69",
+    "person": "U69",
+    "region": "G5",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O72",
+    "person": "U72",
+    "region": "G8",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O75",
+    "person": "U75",
+    "region": "G11",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O78",
+    "person": "U78",
+    "region": "G14",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O81",
+    "person": "U81",
+    "region": "G1",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O84",
+    "person": "U84",
+    "region": "G4",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O87",
+    "person": "U87",
+    "region": "G7",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O90",
+    "person": "U90",
+    "region": "G10",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O93",
+    "person": "U93",
+    "region": "G13",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O96",
+    "person": "U96",
+    "region": "G0",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O99",
+    "person": "U99",
+    "region": "G3",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O102",
+    "person": "U102",
+    "region": "G6",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O105",
+    "person": "U105",
+    "region": "G9",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O108",
+    "person": "U108",
+    "region": "G12",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O111",
+    "person": "U111",
+    "region": "G15",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O114",
+    "person": "U114",
+    "region": "G2",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O117",
+    "person": "U117",
+    "region": "G5",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O120",
+    "person": "U120",
+    "region": "G8",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O123",
+    "person": "U123",
+    "region": "G11",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O126",
+    "person": "U126",
+    "region": "G14",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O129",
+    "person": "U129",
+    "region": "G1",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O132",
+    "person": "U132",
+    "region": "G4",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O135",
+    "person": "U135",
+    "region": "G7",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O138",
+    "person": "U138",
+    "region": "G10",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O141",
+    "person": "U141",
+    "region": "G13",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O144",
+    "person": "U144",
+    "region": "G0",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O147",
+    "person": "U147",
+    "region": "G3",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O150",
+    "person": "U150",
+    "region": "G6",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O153",
+    "person": "U153",
+    "region": "G9",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O156",
+    "person": "U156",
+    "region": "G12",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O159",
+    "person": "U159",
+    "region": "G15",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O162",
+    "person": "U162",
+    "region": "G2",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O165",
+    "person": "U165",
+    "region": "G5",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O168",
+    "person": "U168",
+    "region": "G8",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O171",
+    "person": "U171",
+    "region": "G11",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O174",
+    "person": "U174",
+    "region": "G14",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O177",
+    "person": "U177",
+    "region": "G1",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O180",
+    "person": "U0",
+    "region": "G4",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O183",
+    "person": "U3",
+    "region": "G7",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O186",
+    "person": "U6",
+    "region": "G10",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O189",
+    "person": "U9",
+    "region": "G13",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O192",
+    "person": "U12",
+    "region": "G0",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O195",
+    "person": "U15",
+    "region": "G3",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O198",
+    "person": "U18",
+    "region": "G6",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O201",
+    "person": "U21",
+    "region": "G9",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O204",
+    "person": "U24",
+    "region": "G12",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O207",
+    "person": "U27",
+    "region": "G15",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O210",
+    "person": "U30",
+    "region": "G2",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O213",
+    "person": "U33",
+    "region": "G5",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O216",
+    "person": "U36",
+    "region": "G8",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O219",
+    "person": "U39",
+    "region": "G11",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O222",
+    "person": "U42",
+    "region": "G14",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O225",
+    "person": "U45",
+    "region": "G1",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O228",
+    "person": "U48",
+    "region": "G4",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O231",
+    "person": "U51",
+    "region": "G7",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O234",
+    "person": "U54",
+    "region": "G10",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  },
+  {
+    "id": "O237",
+    "person": "U57",
+    "region": "G13",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O240",
+    "person": "U60",
+    "region": "G0",
+    "ordered": "2026-11-06T10:00:00Z",
+    "received": "2026-11-07T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O243",
+    "person": "U63",
+    "region": "G3",
+    "ordered": "2026-11-09T10:00:00Z",
+    "received": "2026-11-10T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "30"
+  },
+  {
+    "id": "O246",
+    "person": "U66",
+    "region": "G6",
+    "ordered": "2026-11-12T10:00:00Z",
+    "received": "2026-11-13T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O249",
+    "person": "U69",
+    "region": "G9",
+    "ordered": "2026-11-15T10:00:00Z",
+    "received": "2026-11-16T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O252",
+    "person": "U72",
+    "region": "G12",
+    "ordered": "2026-11-04T10:00:00Z",
+    "received": "2026-11-05T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "30"
+  },
+  {
+    "id": "O255",
+    "person": "U75",
+    "region": "G15",
+    "ordered": "2026-11-07T10:00:00Z",
+    "received": "2026-11-08T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "0"
+  },
+  {
+    "id": "O258",
+    "person": "U78",
+    "region": "G2",
+    "ordered": "2026-11-10T10:00:00Z",
+    "received": "2026-11-11T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O261",
+    "person": "U81",
+    "region": "G5",
+    "ordered": "2026-11-13T10:00:00Z",
+    "received": "2026-11-14T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "30"
+  },
+  {
+    "id": "O264",
+    "person": "U84",
+    "region": "G8",
+    "ordered": "2026-11-16T10:00:00Z",
+    "received": "2026-11-17T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "0"
+  },
+  {
+    "id": "O267",
+    "person": "U87",
+    "region": "G11",
+    "ordered": "2026-11-05T10:00:00Z",
+    "received": "2026-11-06T00:00:00Z",
+    "revenue": "244",
+    "cost": "132",
+    "refund": "0"
+  },
+  {
+    "id": "O270",
+    "person": "U90",
+    "region": "G14",
+    "ordered": "2026-11-08T10:00:00Z",
+    "received": "2026-11-09T00:00:00Z",
+    "revenue": "100",
+    "cost": "60",
+    "refund": "30"
+  },
+  {
+    "id": "O273",
+    "person": "U93",
+    "region": "G1",
+    "ordered": "2026-11-11T10:00:00Z",
+    "received": "2026-11-12T00:00:00Z",
+    "revenue": "136",
+    "cost": "78",
+    "refund": "0"
+  },
+  {
+    "id": "O276",
+    "person": "U96",
+    "region": "G4",
+    "ordered": "2026-11-14T10:00:00Z",
+    "received": "2026-11-15T00:00:00Z",
+    "revenue": "172",
+    "cost": "96",
+    "refund": "0"
+  },
+  {
+    "id": "O279",
+    "person": "U99",
+    "region": "G7",
+    "ordered": "2026-11-17T10:00:00Z",
+    "received": "2026-11-18T00:00:00Z",
+    "revenue": "208",
+    "cost": "114",
+    "refund": "30"
+  }
+]
